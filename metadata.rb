@@ -1,7 +1,7 @@
 #-*- encoding : utf-8 -*-
-name             "elasticsearch"
-maintainer       "Ian Ehlert"
-maintainer_email "ian.ehlert@sportngin.com"
+name             "search"
+maintainer       "Daniel Cassiano"
+maintainer_email "dc@cassi.me"
 license          "Apache"
 description      "Installs elasticsearch"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.markdown'))
